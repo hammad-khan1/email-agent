@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+email_agent.db
+logs/
+uploads/
+reports/
+attachments/
+*.zip
+*.db
